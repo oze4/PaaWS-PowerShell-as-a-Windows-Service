@@ -21,5 +21,5 @@ Run a PowerShell script as a Windows Service, using this PowerShell GUI script (
 ![Alt text](http://i.imgur.com/RzNcMYu.png)
 
 ## Successful Uninstall
-![Alt text](http://i.imgur.com/g4LeXoH.png)
+![Alt text](http://i.imgur.com/Ei37iwf.png)
 
