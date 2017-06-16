@@ -11,6 +11,7 @@ Run a PowerShell script as a Windows Service, using this PowerShell GUI script (
 
 ## Successful Install
 Credentials Removed
+
 ![Alt text](http://i.imgur.com/bncD7xA.png)
 
 # UNINSTALLER
