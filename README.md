@@ -10,7 +10,7 @@ Run a PowerShell script as a Windows Service, using this PowerShell GUI script (
 ![Alt text](http://i.imgur.com/RQo1bUo.png)
 
 ## Successful Install
-~Credentials Removed~
+Credentials Removed
 ![Alt text](http://i.imgur.com/bncD7xA.png)
 
 # UNINSTALLER
