@@ -1,7 +1,10 @@
 # PaaWS-PowerShell-as-a-Windows-Service
 Run a PowerShell script as a Windows Service, using this PowerShell GUI script (with bonus uninstaller)
 
-**NOTE:** There are 2 embedded .dll files and one .psd1 file within PaaWS. They are stored within PaaWS-GUI.ps1 as large base64 strings (which were converted beforehand) and then exported as .dll to the current users downloads directory. You can find these assemblies within the "Sorlov Assemblies" directory in the root of this project.
+**NOTE:** 
+
+There are 2 embedded .dll files and one .psd1 file within PaaWS. They are stored within PaaWS-GUI.ps1 as large base64 strings (which were converted beforehand, and pasted into this script) they are then exported as .dll to the current users downloads directory, after you click "Install". You can find these assemblies within the "Sorlov Assemblies" directory in the root of this project.
+
 **END NOTE**
 
 # EXAMPLE
